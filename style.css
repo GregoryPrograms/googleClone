@@ -1,0 +1,31 @@
+.center {
+    text-align: center;
+    padding:120px;    
+}
+.top {
+    position: fixed;
+    min-width: 100%;
+    padding: 10px;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+    padding-right: 30px
+}
+.searchbarCont {
+    width: 500px;
+    height: 40px;
+    border-radius: 25px;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li{
+    display:inline;
+    padding: 4px;
+}
